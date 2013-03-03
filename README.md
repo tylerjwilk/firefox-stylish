@@ -1,10 +1,12 @@
 firefox-stylish
 ===============
 
-My Firefox Styles custom css for various domains
+My Firefox Stylish custom css for various domains
 
 **Download Firefox Stylish Plugin**
+
 Download the plugin at:
+
 https://addons.mozilla.org/en-US/firefox/addon/stylish/
 
 
