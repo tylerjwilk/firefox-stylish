@@ -1,0 +1,12 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("www.reddit.com") 
+{
+
+    /* make the prev and next links big */
+    p.nextprev a
+    {
+        font-size: 3em !important;
+    }
+    
+}
