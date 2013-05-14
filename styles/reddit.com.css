@@ -10,13 +10,18 @@
         width: 100% !important;
         top: 0 !important;
         height: 64px !important;
-        overflow: hidden !important;
     }
+    
+    #header-bottom-left {
+        height: 46px;
+        overflow: hidden;
+    }   
+    
     .content
     {
         margin-top: 70px !important;
     }
-
+    
     /* make the prev and next links big */
     p.nextprev a
     {
