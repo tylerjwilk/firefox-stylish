@@ -13,8 +13,8 @@
     }
     
     #header-bottom-left {
-        height: 46px;
-        overflow: hidden;
+        height: 46px !important;
+        overflow: hidden !important;
     }   
     
     .content
